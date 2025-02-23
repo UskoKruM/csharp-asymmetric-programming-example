@@ -4,7 +4,7 @@ Aprende a encriptar/desencriptar (de forma asimétrica) cadenas de textos (strin
 
 <hr/>
 
-![](./preview1.PNG)
+![](./preview1.png)
 <br/><br/>
 ![](./preview2.png)
 <br/><br/>
