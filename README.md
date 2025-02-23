@@ -8,7 +8,7 @@ Aprende a encriptar/desencriptar (de forma asimétrica) cadenas de textos (strin
 <br/><br/>
 ![](./preview2.png)
 <br/><br/>
-![](./preview2.png)
+![](./preview3.png)
 
 # 🌍 Por si deseas contactarme 👨‍💻 :
 
