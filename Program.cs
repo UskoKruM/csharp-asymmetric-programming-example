@@ -3,6 +3,8 @@ using System.Text;
 
 using (RSA rsa = RSA.Create())
 {
+    rsa.KeySize = 2048;
+
     string publicKey = Convert.ToBase64String(rsa.ExportRSAPublicKey());
     string privateKey = Convert.ToBase64String(rsa.ExportRSAPrivateKey());
 
